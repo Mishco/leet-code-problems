@@ -1,6 +1,6 @@
 package easy;
 
-public class solution {
+public class SolutionPower {
     public boolean isPowerOfTwo(int n) {
         if (n <= 0) {
             return false;
