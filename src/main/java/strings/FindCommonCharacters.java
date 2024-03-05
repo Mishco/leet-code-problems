@@ -6,22 +6,22 @@ import java.util.List;
 
 public class FindCommonCharacters {
 
-    private static final int numberOfAlphabet = 26;
+    private static final int NUMBER_OF_ALPHABET = 26;
 
     public List<String> commonChars(String[] words) {
         List<String> ret = new ArrayList<>();
 
-        int[] minFreq = new int[numberOfAlphabet];
+        int[] minFreq = new int[NUMBER_OF_ALPHABET];
         Arrays.fill(minFreq, Integer.MAX_VALUE);
 
         for (var word : words) {
-            int[] frr = new int[numberOfAlphabet];
+            int[] frr = new int[NUMBER_OF_ALPHABET];
 
             for (char c : word.toCharArray()) {
                 frr[c - 'a']++;
             }
 
-            for (int i = 0; i < numberOfAlphabet; i++) {
+            for (int i = 0; i < NUMBER_OF_ALPHABET; i++) {
                 minFreq[i] = Math.min(minFreq[i], frr[i]);
             }
         }
