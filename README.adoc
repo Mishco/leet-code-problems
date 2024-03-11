@@ -6,7 +6,6 @@ For more information visit https://leetcode.com/[site]
 
 Folders:
 
-- easy,
 - array
 - bitwise
 - game
@@ -17,7 +16,6 @@ Folders:
 == Todos
 
 * [ ] Run code analysis regularly
-* [ ] clean up code (imports, structures)
 * [ ] make ci for junit test
 * [ ] test coverage in ci
 * [ ] sonar in ci
