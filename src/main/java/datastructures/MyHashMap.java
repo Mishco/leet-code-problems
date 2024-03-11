@@ -1,4 +1,4 @@
-package easy;
+package datastructures;
 
 public class MyHashMap {
     private static final int CAPACITY = 10000;

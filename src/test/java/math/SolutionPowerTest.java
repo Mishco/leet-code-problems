@@ -1,4 +1,4 @@
-package easy;
+package math;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package easy;
+package strings;
 
 public class FindTheDifference389 {
 
@@ -11,10 +11,10 @@ public class FindTheDifference389 {
 
         // XOR the ASCII values of each character in strings s and t
         for (char c : s.toCharArray()) {
-            xor ^= (int) c;
+            xor ^= c;
         }
         for (char c : t.toCharArray()) {
-            xor ^= (int) c;
+            xor ^= c;
         }
 
         // The result of XORing all the characters in strings s and t is the ASCII value of the added character
