@@ -19,3 +19,15 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     Ok(())
 }
+
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_roman_to_int() {
+        assert_eq!(50, strings::roman_to_int(String::from("L")));
+        assert_eq!(1994, strings::roman_to_int(String::from("MCMXCIV")));
+    }
+}
