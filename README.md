@@ -1,10 +1,16 @@
 # Leet code problems
 
-For more information visit https://leetcode.com/[site]
+For more information visit [https://leetcode.com/](https://leetcode.com/)
 
 ## Structure
 
 Folders:
+
+- easy
+- medium
+- hard
+
+## Theory
 
 - array
 - bitwise
@@ -14,7 +20,7 @@ Folders:
 - strings
 - tree
 
-## Todo's
+## Todos
 
 - [ ] Run code analysis regularly
 - [ ] make ci for junit test

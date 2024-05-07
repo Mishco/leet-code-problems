@@ -1,4 +1,4 @@
-package bitwise;
+package medium;
 
 public class Solution201 {
     public int rangeBitwiseAnd(int left, int right) {
