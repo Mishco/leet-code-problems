@@ -1,4 +1,4 @@
-package strings;
+package easy;
 
 public class MaximumOddBinaryNumber {
     public String maximumOddBinaryNumber(String s) {

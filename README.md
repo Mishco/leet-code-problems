@@ -22,7 +22,7 @@ Folders:
 
 ## Todos
 
-- [ ] Run code analysis regularly
+- [x] Run code analysis regularly
 - [ ] make ci for junit test
 - [ ] test coverage in ci
 - [ ] sonar in ci
