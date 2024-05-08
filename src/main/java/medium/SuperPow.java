@@ -1,4 +1,4 @@
-package math;
+package medium;
 
 public class SuperPow {
 

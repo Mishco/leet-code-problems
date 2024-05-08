@@ -1,6 +1,6 @@
-package math;
+package easy;
 
-public class PivotInteger {
+public class PivotInteger2485 {
 
     public int pivotInteger(int n) {
         int total = n * (n + 1) / 2;
