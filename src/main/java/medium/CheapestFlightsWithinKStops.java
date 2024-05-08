@@ -1,4 +1,4 @@
-package arrays;
+package medium;
 
 public class CheapestFlightsWithinKStops {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {

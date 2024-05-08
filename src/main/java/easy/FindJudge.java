@@ -1,8 +1,8 @@
-package arrays;
+package easy;
 
 public class FindJudge {
 
-
+    // fixme add unit tests
     public int findJudge(int n, int[][] trust) {
         int[] trustCounts = new int[n + 1];
         int[] trustedByCounts = new int[n + 1];

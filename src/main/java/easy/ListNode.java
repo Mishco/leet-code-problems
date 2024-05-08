@@ -1,9 +1,9 @@
-package arrays;
+package easy;
 
 public class ListNode {
 
     int val;
-    ListNode next;
+    public ListNode next;
 
     ListNode() {}
 
