@@ -25,6 +25,6 @@ Folders:
 ## Todos
 
 - [x] Run code analysis regularly
-- [ ] make ci for junit test
+- [x] make ci for junit test
 - [ ] test coverage in ci
 - [ ] sonar in ci
