@@ -1,4 +1,4 @@
-package game.theory;
+package medium;
 
 import org.junit.jupiter.api.Test;
 

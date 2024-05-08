@@ -1,4 +1,4 @@
-package game.theory;
+package medium;
 
 public class RemoveColoredPieces2038 {
 
