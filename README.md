@@ -1,5 +1,7 @@
 # Leet code problems
 
+[![Java CI with Maven](https://github.com/Mishco/leet-code-problems/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/Mishco/leet-code-problems/actions/workflows/maven.yml)
+
 For more information visit [https://leetcode.com/](https://leetcode.com/)
 
 ## Structure
